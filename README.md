@@ -1,2 +1,2 @@
 # Your-College-Companion
-That's an website which will be your academic companion through out your collage life
+That's a website which will be your academic companion through out your collage life
